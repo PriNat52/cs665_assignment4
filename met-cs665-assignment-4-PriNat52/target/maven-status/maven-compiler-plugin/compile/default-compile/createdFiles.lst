@@ -1,0 +1,12 @@
+edu\bu\met\cs665\bookstore\WelcomeEmail.class
+edu\bu\met\cs665\bookstore\RequestProxy.class
+edu\bu\met\cs665\bookstore\NewVersion.class
+edu\bu\met\cs665\bookstore\RemoveProcess.class
+edu\bu\met\cs665\bookstore\AddProcess.class
+edu\bu\met\cs665\bookstore\BackgroundCheck.class
+edu\bu\met\cs665\bookstore\CommandCheck.class
+edu\bu\met\cs665\bookstore\Customer.class
+edu\bu\met\cs665\bookstore\OldVersion.class
+edu\bu\met\cs665\bookstore\DataAccess.class
+edu\bu\met\cs665\bookstore\EmailVerification.class
+edu\bu\met\cs665\bookstore\RejectionEmail.class
